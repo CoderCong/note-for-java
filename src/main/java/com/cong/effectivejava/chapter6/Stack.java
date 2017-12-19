@@ -1,4 +1,4 @@
-package com.cong.chapter6;
+package com.cong.effectivejava.chapter6;
 
 import java.util.Arrays;
 

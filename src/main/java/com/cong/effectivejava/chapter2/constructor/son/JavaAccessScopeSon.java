@@ -1,6 +1,6 @@
-package com.cong.chapter2.constructor.son;
+package com.cong.effectivejava.chapter2.constructor.son;
 
-import com.cong.chapter2.constructor.DifferenceConstructorWithDiffParam;
+import com.cong.effectivejava.chapter2.constructor.DifferenceConstructorWithDiffParam;
 
 /**
  * @author 759329342@qq.com

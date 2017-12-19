@@ -1,4 +1,4 @@
-package com.cong.chapter2.constructor;
+package com.cong.effectivejava.chapter2.constructor;
 
 /**
  * @author 759329342@qq.com
