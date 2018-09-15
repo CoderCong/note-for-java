@@ -1,4 +1,4 @@
-package com.cong.restful;
+package com.cong.rpc;
 
 /**
  * @author 759329342@qq.com

@@ -1,4 +1,4 @@
-package com.cong.annotation;
+package com.cong.javase.annotation;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;

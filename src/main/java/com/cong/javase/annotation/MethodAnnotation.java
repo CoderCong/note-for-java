@@ -1,4 +1,4 @@
-package com.cong.annotation;
+package com.cong.javase.annotation;
 
 /**
  * @author 759329342@qq.com
